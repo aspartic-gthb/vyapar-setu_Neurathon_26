@@ -96,18 +96,4 @@ vyapar-setu/
 
 ---
 
-## 🤝 Contribution
-
-Contributions, ideas, and feedback are welcome.  
-Feel free to open issues or submit pull requests.
-
----
-
-## 📬 Contact
-
-- GitHub: https://github.com/aspartic-gthb  
-- Email: (add your personal + institute email here)
-
----
-
 **Built to simplify business for Bharat.**
